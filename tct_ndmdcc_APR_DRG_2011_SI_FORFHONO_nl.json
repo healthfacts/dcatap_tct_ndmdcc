@@ -1,0 +1,30 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "ce20f5c71d97ca703459de3ec656baaf",
+    "title": "National data on the amount of flat-rate fees per APR-DRG and degree of severity (2011)",
+    "description": "The APR_DRG dataset concerns the financial feedback per pathology according to the All Patients Refined Diagnosis Related Groups (APR DRG) classification system.",
+    "publisher": "National Institute for Health and Disability Insurance; Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_tct_ndmdcc/blob/main/tct_ndmdcc_APR_DRG_2011_SI_FORFHONO_nl.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_tct_ndmdcc/blob/main/tct_ndmdcc_APR_DRG_2011_SI_FORFHONO_nl.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 75891,
+    "modificationDate": "2023-11-13 08:50:39",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://tct.fgov.be/webetct/etct-web/html/nl/fbho_faq.jsp; https://tct.fgov.be/webetct/etct-web/html/fr/index.jsp",
+    "keyword": [
+        "National Institute for Health and Disability Insurance",
+        " Federal Public Service Public Health, Food Chain Safety and Environment"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "b7f4412e-642d-4604-b461-f5e0aed3fbb6",
+        "title": "National data on the cost of care per pathology according to the All Patients Refined Diagnosis Related Groups (APR DRG) classification system.",
+        "landingPage": "https://tct.fgov.be/",
+        "contactPoint": "Technische Cel voor de verwerking van de gegevens met betrekking tot de ziekenhuizen, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "techn.cel@riziv.fgov.be"
+    }
+}

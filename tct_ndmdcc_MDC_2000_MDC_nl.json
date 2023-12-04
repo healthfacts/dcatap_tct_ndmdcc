@@ -1,0 +1,30 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "733c58eb672a127fa5acf741a179a7d4",
+    "title": "National data per code ATC4 for pre-MDC and MDC 1 to 4 (2000)",
+    "description": "The MDC dataset concerns the financial feedback per pathology according to the Major Diagnostic Categories (MDC) classification system.",
+    "publisher": "National Institute for Health and Disability Insurance; Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_tct_ndmdcc/blob/main/tct_ndmdcc_MDC_2000_MDC_nl.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_tct_ndmdcc/blob/main/tct_ndmdcc_MDC_2000_MDC_nl.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 1505,
+    "modificationDate": "2023-11-13 08:50:42",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://tct.fgov.be/webetct/etct-web/html/nl/fbho_faq.jsp; https://tct.fgov.be/webetct/etct-web/html/fr/index.jsp",
+    "keyword": [
+        "National Institute for Health and Disability Insurance",
+        " Federal Public Service Public Health, Food Chain Safety and Environment"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "ab40f973-e7a6-4535-99ae-7f741895f37a",
+        "title": "National data on the cost of care per pathology according to the Major Diagnostic Categories (MDC) classification system",
+        "landingPage": "https://tct.fgov.be/",
+        "contactPoint": "Technische Cel voor de verwerking van de gegevens met betrekking tot de ziekenhuizen, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "techn.cel@riziv.fgov.be"
+    }
+}

@@ -1,0 +1,30 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "04135b7cfa2eb9d59bbb356130e2e63d",
+    "title": "National data: total number of DDAs per APR-DRG and severity level (2011)",
+    "description": "The FARMA dataset concerns the financial feedback per pathology for patients who have received medication.",
+    "publisher": "National Institute for Health and Disability Insurance; Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_tct_ndmdcc/blob/main/tct_ndmdcc_FARMA_2011_SI_nl.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_tct_ndmdcc/blob/main/tct_ndmdcc_FARMA_2011_SI_nl.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 81266,
+    "modificationDate": "2023-11-13 08:50:41",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://tct.fgov.be/webetct/etct-web/html/nl/fbho_faq.jsp; https://tct.fgov.be/webetct/etct-web/html/fr/index.jsp",
+    "keyword": [
+        "National Institute for Health and Disability Insurance",
+        " Federal Public Service Public Health, Food Chain Safety and Environment"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "ef5b8bbe-b5b5-4fd4-9522-fa30aa506287",
+        "title": "National data on the cost of the use of medicines",
+        "landingPage": "https://tct.fgov.be/",
+        "contactPoint": "Technische Cel voor de verwerking van de gegevens met betrekking tot de ziekenhuizen, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "techn.cel@riziv.fgov.be"
+    }
+}

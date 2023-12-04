@@ -1,0 +1,30 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "9c1a72bb031a31bab7c8f65a13233fc7",
+    "title": "National data: total amount per APR-DRG and degree of severity (2019)",
+    "description": "The AB dataset concerns the financial feedback per pathology for patients who have received antibiotics.",
+    "publisher": "National Institute for Health and Disability Insurance; Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_tct_ndmdcc/blob/main/tct_ndmdcc_AB_2019_SI_EUR_nl.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_tct_ndmdcc/blob/main/tct_ndmdcc_AB_2019_SI_EUR_nl.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 58551,
+    "modificationDate": "2023-11-13 08:50:36",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://tct.fgov.be/webetct/etct-web/html/nl/fbho_faq.jsp; https://tct.fgov.be/webetct/etct-web/html/fr/index.jsp",
+    "keyword": [
+        "National Institute for Health and Disability Insurance",
+        " Federal Public Service Public Health, Food Chain Safety and Environment"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "d0e36f0d-8be3-455e-9d6f-e53c55ac440a",
+        "title": "National data on the cost of the use of antibiotics",
+        "landingPage": "https://tct.fgov.be/",
+        "contactPoint": "Technische Cel voor de verwerking van de gegevens met betrekking tot de ziekenhuizen, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "techn.cel@riziv.fgov.be"
+    }
+}
