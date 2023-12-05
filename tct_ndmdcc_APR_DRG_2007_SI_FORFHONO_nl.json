@@ -9,7 +9,7 @@
     "mediaType": "text/csv",
     "format": "csv",
     "byteSize": 75324,
-    "modificationDate": "2023-11-13 08:50:38",
+    "modificationDate": "2023-11-30 12:29:25",
     "status": "completed",
     "language": "nl",
     "availability": "stable",
@@ -22,7 +22,7 @@
     "dataset": {
         "@type": "dataset",
         "identifier": "b7f4412e-642d-4604-b461-f5e0aed3fbb6",
-        "title": "National data on the cost of care per pathology according to the All Patients Refined Diagnosis Related Groups (APR DRG) classification system.",
+        "title": "National data on the cost of care per pathology in Belgian hospitals according to the All Patients Refined Diagnosis Related Groups (APR DRG) classification system",
         "landingPage": "https://tct.fgov.be/",
         "contactPoint": "Technische Cel voor de verwerking van de gegevens met betrekking tot de ziekenhuizen, Galileelaan 5/01, 1210 Brussels, Belgium",
         "contactPointEmail": "techn.cel@riziv.fgov.be"

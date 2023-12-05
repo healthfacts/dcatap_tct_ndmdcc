@@ -9,7 +9,7 @@
     "mediaType": "text/csv",
     "format": "csv",
     "byteSize": 971254,
-    "modificationDate": "2023-11-13 08:50:36",
+    "modificationDate": "2023-11-30 12:29:25",
     "status": "completed",
     "language": "nl",
     "availability": "stable",
@@ -22,7 +22,7 @@
     "dataset": {
         "@type": "dataset",
         "identifier": "d0e36f0d-8be3-455e-9d6f-e53c55ac440a",
-        "title": "National data on the cost of the use of antibiotics",
+        "title": "National data on the cost of the use of antibiotics in Belgian hospitals",
         "landingPage": "https://tct.fgov.be/",
         "contactPoint": "Technische Cel voor de verwerking van de gegevens met betrekking tot de ziekenhuizen, Galileelaan 5/01, 1210 Brussels, Belgium",
         "contactPointEmail": "techn.cel@riziv.fgov.be"
